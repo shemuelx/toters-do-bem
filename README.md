@@ -1,74 +1,72 @@
-# Getting Started with Create React App
+# Toters do Bem
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Toti Community is a collective of immigrant technology professionals in Brazil, united by the desire to grow professionally and support one another. Our mission is to provide a welcoming space where knowledge and experiences intertwine to create opportunities for development and integration.
 
-## Available Scripts
+# Table of Contents
 
-In the project directory, you can run:
+- [About us](#About)
+- [Installation](#Installation)
+- [Contribute](#Contribute)
+- [Support](#Support)
+- [License](#License)
+- [Contact Information](#Contact)
+- [Credits](#Credits)
 
-## Deploy 
-[🚧 Em construção](https://dart1516.github.io/proyecto-toti-rs/)
+
+## About us
+
+Connecting volunteers and institutions to strengthen Rio Grande do Sul by offering help and hope to those affected by floods. This includes providing services such as psychological support, social education, and the assistance of volunteers.
 
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To install this project:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1.  Clone the repository with:
 
-### `npm test`
+    ```sh
+    git clone https://github.com/shemuelx/toters-do-bem.git
+    ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2.  Locate into application folder using:
 
-### `npm run build`
+    ```sh
+    cd toters-do-bem
+    ``
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3.  Install all project dependencies:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    ```sh    
+    npm install
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4.  Start the project using:
+    
+    ```sh
+    npm start
+    ```
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contribute
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To contribute with this project use the [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow). Create a branch, add some meaningful commits and open a pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Support
 
-## Learn More
+When needed open an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) to support our work.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+This project is licensed under the terms of the [MIT license](./LICENSE.md).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Contact Information
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Lets talk to make this world a better place [together](mailto:admin@totersdobem.com.br).
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Credits
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We want to say **thank you** to all contributors in this journey!
