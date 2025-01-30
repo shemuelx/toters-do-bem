@@ -32,7 +32,7 @@ To install this project:
 
     ```sh
     cd toters-do-bem
-    ``
+    ```
 
 3.  Install all project dependencies:
 
@@ -70,3 +70,4 @@ Lets talk to make this world a better place [together](mailto:admin@totersdobem.
 ## Credits
 
 We want to say **thank you** to all contributors in this journey!
+
