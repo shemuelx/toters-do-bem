@@ -1,6 +1,6 @@
 # Toters do Bem
 
-The Toti Community is a collective of immigrant technology professionals in Brazil, united by the desire to grow professionally and support one another. Our mission is to provide a welcoming space where knowledge and experiences intertwine to create opportunities for development and integration.
+The [Toti](https://totidiversidade.com.br/) Community is a collective of immigrant technology professionals in Brazil, united by the desire to grow professionally and support one another. Our mission is to provide a welcoming space where knowledge and experiences intertwine to create opportunities for development and integration.
 
 # Table of Contents
 
