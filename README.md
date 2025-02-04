@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Toters do Bem
 
-## Getting Started
+The [Toti](https://totidiversidade.com.br/) Community is a collective of immigrant technology professionals in Brazil, united by the desire to grow professionally and support one another. Our mission is to provide a welcoming space where knowledge and experiences intertwine to create opportunities for development and integration.
 
-First, run the development server:
+# Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [About us](#About)
+- [Installation](#Installation)
+- [Contribute](#Contribute)
+- [Support](#Support)
+- [License](#License)
+- [Contact Information](#Contact)
+- [Credits](#Credits)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## About us
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Connecting volunteers and institutions to strengthen Rio Grande do Sul by offering help and hope to those affected by floods. This includes providing services such as psychological support, social education, and the assistance of volunteers.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To install this project:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1.  Clone the repository with:
 
-## Deploy on Vercel
+    ```sh
+    git clone https://github.com/shemuelx/toters-do-bem.git
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2.  Locate into application folder using:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    ```sh
+    cd toters-do-bem
+    ```
+
+3.  Install all project dependencies:
+
+    ```sh    
+    npm install
+    ```
+
+4.  Start the project using:
+    
+    ```sh
+    npm run dev
+    ```
+5. Open with your browser [http://localhost:3000](http://localhost:3000)
+
+
+## Contribute
+
+To contribute with this project use the [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow):
+
+1. Create a branch
+2. Add some meaningful commits
+3. Open a Pull Request
+
+
+## Support
+
+When needed open an [issue](https://github.com/shemuelx/toters-do-bem/issues/new?template=Blank+issue) to support our work.
+
+
+## License
+
+This project is licensed under the terms of the [MIT license](./LICENSE).
+
+
+## Contact Information
+
+Lets talk to make this world a better place [together](mailto:admin@totersdobem.com.br).
+
+
+## Credits
+
+We want to say **thank you** to all contributors in this journey!
+
