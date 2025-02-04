@@ -64,7 +64,7 @@ When needed open an [issue](https://github.com/shemuelx/toters-do-bem/issues/new
 
 ## License
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+This project is licensed under the terms of the [GNU General Public License v3.0](./LICENSE.md).
 
 
 ## Contact Information
