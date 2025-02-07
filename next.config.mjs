@@ -15,6 +15,13 @@ const nextConfig = {
 
 		return config;
 	},
+    output: "export",
+    basePath: "/toters-do-bem",
+    assetPrefix: "/toters-do-bem",
+    reactStrictMode: true,
+    images: {
+        unoptimized: true
+    },
 };
 
 export default nextConfig;
