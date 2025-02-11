@@ -21,6 +21,7 @@ import Footer from "../components/Footer";
 import styles1 from "../assets/styles/App.module.css";
 import styles2 from "../assets/styles/HomePage.module.css";
 import Video1 from "../assets/videos/home.mp4";
+import backgroundimg from "../assets/images/banner-home.svg";
 
 export default function Home() {
 	const [activeIndices, setActiveIndices] = useState({});
@@ -36,6 +37,13 @@ export default function Home() {
 		<div className={styles1.App}>
 			<div className={styles2.body}>
 				<section className={styles2["background-main"]}>
+					<Image
+						src={backgroundimg.src}
+						layout="fill"
+						objectFit="cover"
+						quality={100}
+						priority
+					/>
 					<main className={styles2.main}>
 						<div className={styles2["text-home"]}>
 							<div className={styles2["text-container"]}>
