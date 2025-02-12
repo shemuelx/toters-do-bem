@@ -16,8 +16,6 @@ import educador from "../assets/images/educador-social.svg";
 import lideres from "../assets/images/lideres.svg";
 import psicologa from "../assets/images/psicologa.svg";
 import Footer from "../components/Footer";
-// import "../assets/styles/App.css";
-// import "../assets/styles/HomePage.css";
 import styles1 from "../assets/styles/App.module.css";
 import styles2 from "../assets/styles/HomePage.module.css";
 import Video1 from "../assets/videos/home.mp4";
@@ -38,6 +36,7 @@ export default function Home() {
 			<div className={styles2.body}>
 				<section className={styles2["background-main"]}>
 					<Image
+						className={styles2["background-img"]}
 						src={backgroundimg.src}
 						layout="fill"
 						objectFit="cover"

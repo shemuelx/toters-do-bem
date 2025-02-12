@@ -24,6 +24,10 @@
   margin-top: 5.563rem;
 }
 
+.background-img {
+  display: block;
+}
+
 .main {
   position: relative;
   display: flex;
@@ -497,6 +501,11 @@ section.registro-processo .processo-lider .processo p {
     align-items: center;
     justify-content: center;
   }
+
+  .background-img {
+    display: block;
+  }
+
   .main {
     justify-content: start;
     align-items: center;
@@ -806,6 +815,10 @@ section.registro-processo .processo-lider .processo p {
     display: flex;
     align-items: flex-start;
     flex: 1;
+  }
+
+  .background-img {
+    display: none;
   }
 
   .main {
