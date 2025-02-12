@@ -494,9 +494,6 @@ section.registro-processo .processo-lider .processo p {
   .background-main {
     position: relative;
     overflow: hidden;
-    width: 100%;
-    height: 100%;
-    min-height: 80vh;
     align-items: center;
     justify-content: center;
   }
@@ -803,23 +800,14 @@ section.registro-processo .processo-lider .processo p {
 @media only screen and (max-width: 670px) {
   .body {
     gap: 5rem;
-    height: auto;
+    height: 100%;
   }
   .background-main {
-    width: 100%;
-    height: 100%;
-/*    min-height: 100vh; */
     display: flex;
     align-items: flex-start;
-    padding: 0%;
     flex: 1;
   }
-  .background-main::before {
-    width: 100%;
-    height: 100%;
-    /* max-height: 100vh; */
-    background-image: url("../images/banner-home.svg");
-  }
+
   .main {
     position: relative;
     display: flex;
@@ -862,7 +850,7 @@ section.registro-processo .processo-lider .processo p {
   .main .sub-text-home {
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
+	margin-bottom: 2rem;
     width: 100%;
   }
 
