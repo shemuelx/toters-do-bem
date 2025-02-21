@@ -20,8 +20,9 @@ Our system is designed to store and connect psychologists, social educators, and
 
 #### System Users
 
-We have three distinct user profiles:
+We have four distinct user profiles:
 
+* Users - Individuals who wants to know about our services
 * Volunteers – Individuals who want to offer their time and support to help those
 * Psychologists – Professionals providing mental health
 * Educators – Social/community professionals offering educational guidance.
@@ -31,11 +32,11 @@ We have three distinct user profiles:
 Toters do Bem integrates: 
 
 * Brazil States Codes 
-* Brazil Professional Registration API
+* ONGs and migrants organizations
 
-System Context Diagram
+#### System Context Diagram
 
-(Diagram placeholder)
+![Toters do Bem system context](../assets/images/toters_do_bem_system_context.png)
 
 
 ### System Containers
@@ -57,7 +58,22 @@ All UI/UX specifications and design assets are available in our [Figma](https://
 
 ### Functional Requirements
 
-1. Authentication – Secure login and user
-2. Browsing – Users can explore available services
-3. Registration – Volunteers and professionals can sign up and offer their services.
+1. Authentication
+
+* Volunteers can browse the app without beign authenticated
+* Volunteers can create an account using email
+* Volunteers can authenticate using their created account credentials
+* Authenticated users can update their profile information
+* Authenticated users can reset their password if needed
+
+2. Browsing
+
+* Volunteers can explore available services
+* Volunteers can find relevant details about the project
+* Volunteers can find important services offered
+
+3. Registration
+
+* Volunteers can sign up to offer their services
+* Volunteers can choose availables volunteering options
 
